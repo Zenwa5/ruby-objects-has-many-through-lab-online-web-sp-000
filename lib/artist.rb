@@ -8,6 +8,6 @@ class Artist
   end
 
   def all
-    @@all? {|  }
+    @@all
   end
 end
